@@ -1,0 +1,34 @@
+{
+  "version": "1.0.0",
+  "baseUrl": "https://raw.githubusercontent.com/idvorkin-ai-tools/form-analyzer-samples/main",
+  "exercises": {
+    "kettlebell-swing": {
+      "name": "Kettlebell Swing",
+      "samples": {
+        "good": [
+          {
+            "filename": "swing-sample.webm",
+            "description": "Standard two-handed kettlebell swing with good form",
+            "duration": 30,
+            "format": "webm"
+          }
+        ],
+        "bad": []
+      }
+    },
+    "pull-up": {
+      "name": "Pull-up",
+      "samples": {
+        "good": [],
+        "bad": []
+      }
+    },
+    "pistol-squat": {
+      "name": "Pistol Squat",
+      "samples": {
+        "good": [],
+        "bad": []
+      }
+    }
+  }
+}
