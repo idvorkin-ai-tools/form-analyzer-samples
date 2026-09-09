@@ -29,6 +29,21 @@
         "good": [],
         "bad": []
       }
+    },
+    "bulgarian-split-squat": {
+      "name": "Bulgarian Split Squat",
+      "samples": {
+        "good": [
+          {
+            "filename": "igor-bulgarian.webm",
+            "description": "Igor's 8-rep Bulgarian split squat set, side view (front = right leg planted, back foot elevated); front-knee depth ~61-80 deg, no knee cave / low-back arch",
+            "duration": 36,
+            "format": "webm",
+            "poseTrack": "igor-bulgarian.posetrack.json"
+          }
+        ],
+        "bad": []
+      }
     }
   }
 }
